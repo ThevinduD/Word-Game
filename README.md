@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple game. All you have to do is guess the correct word within 8 chances. I built this using JavaScript concepts and ReactJS concepts. give it a try <3
+This is a simple game where you have to guess the correct word within 8 chances. I built it using JavaScript and ReactJS concepts. Give it a try! ❤️
 
 ## Installation
 ### Clone the Repository
