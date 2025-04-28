@@ -11,3 +11,4 @@ git clone https://github.com/ThevinduD/Word-Game.git
 cd Word-Game
 npm install
 npm start
+```
