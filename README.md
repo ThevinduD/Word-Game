@@ -1,11 +1,13 @@
-# How to setup and run //
+# Word-Game
 
-Download the zip and extract, // Or clone using url
+## Overview
 
-Open the terminal inside.
+This is a simple game. All you have to do is guess the secret word within 8 chances. I built this using JavaScript concepts and ReactJS concepts. give it a try.
 
-Install the dependencies using 'npm install' or 'yarn install'
-
-Run the project using 'npm run dev' or 'yarn dev'
-
-Enjoy!!
+## Installation
+### Clone the Repository
+```bash
+git clone https://github.com/ThevinduD/Word-Game.git
+cd Word-Game
+npm install
+npm start
